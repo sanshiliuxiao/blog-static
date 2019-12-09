@@ -413,7 +413,6 @@ const GoogleAds = {
         this.$node.append(this.gjs)
         setTimeout(() => {
           this.$node.append(this.ins)
-          console.log(this.$node, adsbygoogle, window.adsbygoogle)
           try {
             (adsbygoogle = window.adsbygoogle || []).push({});
             this.$postArt.css({ 'display': 'block' })
