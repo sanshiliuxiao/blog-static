@@ -713,7 +713,7 @@ img {
 }
 a,
 button {
-  cursor: url("/images/cursorLink.png"), auto !important;
+  cursor: url("https://cdn.jsdelivr.net/gh/sanshiliuxiao/blog-static/cursorLink.png"), auto !important;
 }
 a {
   color: inherit;
@@ -764,7 +764,7 @@ body ::-webkit-scrollbar-track,
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-  cursor: url("/images/cursor.png"), auto !important;
+  cursor: url("https://cdn.jsdelivr.net/gh/sanshiliuxiao/blog-static/cursor.png"), auto !important;
 }
 .layout > * {
   flex-shrink: 0;
@@ -868,7 +868,7 @@ body ::-webkit-scrollbar-track,
   z-index: 99;
   opacity: 1;
   transition: all 0.6s ease-out;
-  background: url("/images/backToTop.png") no-repeat top;
+  background: url("https://cdn.jsdelivr.net/gh/sanshiliuxiao/blog-static/backToTop.png") no-repeat top;
   background-size: contain;
   animation: float 3s linear infinite;
 }
@@ -903,7 +903,7 @@ body ::-webkit-scrollbar-track,
   border: none;
   border-top-right-radius: 3px;
   background-color: rgba(255,255,255,0.8);
-  background-image: url("/images/reimu.png");
+  background-image: url("https://cdn.jsdelivr.net/gh/sanshiliuxiao/blog-static/reimu.png");
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center center;
@@ -1661,7 +1661,7 @@ body ::-webkit-scrollbar-track,
   min-height: 100px;
   max-height: 200px;
   background-color: rgba(255,255,255,0.65);
-  background-image: url("/images/reimu.png");
+  background-image: url("https://cdn.jsdelivr.net/gh/sanshiliuxiao/blog-static/reimu.png");
   background-size: 120px;
   background-repeat: no-repeat;
   background-position: 99% bottom;
