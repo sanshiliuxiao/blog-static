@@ -1,0 +1,12 @@
+{
+  "name": "blog-image",
+  "version": "1.0.0",
+  "description": "用来存放博客的静态资源",
+  "main": "index.js",
+  "repository": "git@github.com:sanshiliuxiao/blog-image.git",
+  "author": "sanshiliuxiao@foxmail.com <sanshiliuxiao@foxmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "d": "git add . && git commit -m 'update' && git push -f"
+  }
+}
