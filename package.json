@@ -7,6 +7,6 @@
   "author": "sanshiliuxiao@foxmail.com <sanshiliuxiao@foxmail.com>",
   "license": "MIT",
   "scripts": {
-    "d": "git add . && git commit -m 'update' && git push -f"
+    "d": "git add . && git commit -m 'update' && git push"
   }
 }
